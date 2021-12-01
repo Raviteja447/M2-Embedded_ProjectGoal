@@ -21,5 +21,19 @@
        They work by using sensor probes to indicates the level of water in a storage tank. An alarm or an indicator is triggered when these probes send information to the control 
        panel.
        
+   ## High Level Requirements
+       - The tank and control panels where space must be saved.
+       - Built into equipment.space is limited.
+       - Easy maintenance.Fast wiring / Plug-in Installation.
+       - Location subject to vibration where secured wiring is required.
+       
+  ## Low Level Requirements
+       - Automatically supplying water to elevated tanks on buildings.
+       - Outputing alarms for water shortage or water rise in elevated tanks.
+       - Automatically discharging waste water from tanks to sewage lines.
+       - Detecting water leakage in facilities,from pipes,and on floors.
+       
+    
+       
       
    
