@@ -11,4 +11,15 @@
    # What 
       A Water level controller is a device that manages water levels on a variety of systems such as a water tanks ,pumps and swimming pools.
       
+   # When 
+      It directly control water supply and stop according to the level change .It can save more than 60% Water.
+      
+   # Why
+       A water level controller helps save money by limiting the waste of water and electricity.
+       
+   # How
+       They work by using sensor probes to indicates the level of water in a storage tank. An alarm or an indicator is triggered when these probes send information to the control 
+       panel.
+       
+      
    
