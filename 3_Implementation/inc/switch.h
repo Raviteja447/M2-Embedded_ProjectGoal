@@ -1,6 +1,5 @@
-#include<stdio.h>
-#ifndef _RELAY_H_
-#define _RELAY_H_
+#ifndef _SWITCH_H_
+#define _SWITCH_H_
 
 void floatSwitchInit(void);
 
