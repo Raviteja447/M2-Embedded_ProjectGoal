@@ -1,6 +1,6 @@
 #include<stdio.h>
-#ifndef RELAY_H_INCLUDE
-#define RELAY_H_INCLUDE
+#ifndef _RELAY_H_
+#define _RELAY_H_
 
 void floatSwitchInit(void);
 
